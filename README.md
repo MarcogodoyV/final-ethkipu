@@ -2,7 +2,6 @@
 
 <h4 align="center">
   <a href="https://docs.scaffoldeth.io">Documentation</a> |
-  <a href="https://scaffoldeth.io">Website</a>
   <a href="https://final-ethkipu-nextjs.vercel.app/debug">TESTSITE IN VERCEL</a>
 </h4>
 
